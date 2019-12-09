@@ -1,2 +1,2 @@
 # Rates
-Project for Exploring  Rates of Vision Disorders
+Project for Exploring Rates of Disorder and Disease
